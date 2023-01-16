@@ -1,6 +1,6 @@
 [![View Demand-Side-Management-for-Techno-Economic-Evaluation-of-Hyb on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/123310-demand-side-management-for-techno-economic-evaluation-of-hyb)
 # Demand-Side-Management(DSM)-for-Techno-Economic-Evaluation-of-Hybrid-Energy-Systems
-The codes demonstate the DSM strategy imployed in this article, "https://doi.org/10.3390/electronics11020204"
+The codes demonstate the DSM strategy employed in this article, "https://doi.org/10.3390/electronics11020204"
 
 ## Definition of terms
 **P(t), P(w), P1(t), univ,P(ren), and lt** represents PV power, wind power, load, inverter efficiency, surplus renewable energy, and load shift at time, *t*, respectively
