@@ -19,7 +19,7 @@ The DSM code describes the section 6 in this article: https://doi.org/10.3390/el
 
 
 Code usage\
-This DSM model is compatible and can be used with the techno-economic evaluation of hybrid energy system developed in by cop:
+This DSM model is compatible and can be used with the techno-economic evaluation of hybrid energy system developed in:
 
 https://www.mathworks.com/matlabcentral/fileexchange/54205-techno-economic-analysis-of-hybrid-renewable-energy-system-with-pso
 
